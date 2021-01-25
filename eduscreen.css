@@ -1,0 +1,9 @@
+body{
+    background:lightsalmon;
+    background-size: cover;
+    text-align: center;
+}
+p{
+    color:black;
+    font-size: larger;
+}
